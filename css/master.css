@@ -1,0 +1,38 @@
+body {
+  background-color: #e6f8f9;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 'Merriweather', serif;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+h2 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding-left: 10px;
+}
+
+th {
+  font-family: 'Roboto Slab', serif;
+  color: #00a79d;
+}
